@@ -1,0 +1,9 @@
+{
+    "name": "rtsp-streaming-server",
+    "type": "module",
+    "main": "lib/index.js",
+    "dependencies": {
+        "naive-emitter": "^0.0.1",
+        "rtsp-server": "^1.2.2"
+    }
+}
